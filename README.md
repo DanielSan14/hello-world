@@ -1,2 +1,5 @@
 # hello-world
-Jsut another repository
+
+Hi Humans!
+
+DanielSan here, I am absolutely excited for learning this tool.
